@@ -1,3 +1,16 @@
+document.addEventListener("DOMContentLoaded", function () {
+  const taskCategory = document.getElementById("taskCategory");
+
+  taskCategory.addEventListener("change", function () {
+    const category = this.value;
+
+    // Show/hide extra fields based on category
+    document.getElementById("locationField").style.display = category === "Personal" ? "block" : "none";
+    document.getElementById("projectField").style.display = category === "Work" ? "block" : "none";
+    document.getElementById("subjectField").style.display = category === "Study" ? "block" : "none";
+  });
+});
+
 // Base Task constructor
 function Task(id, name, description, date, category, urgent, order) {
   this.id = id;
