@@ -1,4 +1,4 @@
-# 📝 Dynamic To-Do List App
+# 📝 Dynamic To-Do List App v2
 
 A beginner-friendly interactive to-do list that lets users create, edit, delete, and organize tasks in one place **without needing to refresh the page!**
 
@@ -6,7 +6,7 @@ A beginner-friendly interactive to-do list that lets users create, edit, delete,
 
 ## 📚 Table of Contents
 
-- [📝 Dynamic To-Do List App](#-dynamic-to-do-list-app)
+- [📝 Dynamic To-Do List App v2](#-dynamic-to-do-list-app-v2)
   - [📚 Table of Contents](#-table-of-contents)
   - [Introduction](#introduction)
   - [Screenshot](#screenshot)
