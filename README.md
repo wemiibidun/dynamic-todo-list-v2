@@ -65,7 +65,6 @@ This app lets users:
 ## Link to Live Demo
 
 🔗 [View the Live To-Do App](https://wemiibidun.github.io/dynamic-todo-list-v2/)
-<a href="https://wemiibidun.github.io/dynamic-todo-list-v2/" target="_blank">🔗 View the Live To-Do App</a>
 
 ---
 
@@ -79,7 +78,7 @@ Project is: ✅ **Complete**
 
 ```bash
 # Clone the repo
-git clone https://github.com/wemiibidun/dynamic-todo-list.git
+git clone https://github.com/wemiibidun/dynamic-todo-list-v2.git
 
 # Navigate into the project folder
 cd dynamic-todo-list
