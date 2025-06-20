@@ -1,9 +1,8 @@
-# 📝 Dynamic To-Do List App v2
+# Dynamic To-Do List App v2
 My dynamic to-do list app helps users manage tasks efficiently with custom fields, drag-and-drop reordering, and persistent local storage.
 
 ---
 ## Table of contents
-- [📝 Dynamic To-Do List App v2](#-dynamic-to-do-list-app-v2)
   - [Table of contents](#table-of-contents)
   - [Introduction](#introduction)
   - [Screenshot](#screenshot)
