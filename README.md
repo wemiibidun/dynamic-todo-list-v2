@@ -1,6 +1,6 @@
 # 📝 Dynamic To-Do List App v2
 
-A beginner-friendly interactive to-do list that lets users create, edit, delete, and organize tasks in one place **without needing to refresh the page!**
+Updated version of dynamic to-do list that was initially created [here](https://wemiibidun.github.io/dynamic-todo-list/) **without needing to refresh the page!**
 
 ---
 
@@ -67,7 +67,7 @@ This app lets users:
 
 ## Link to Live Demo
 
-🔗 [View the Live To-Do App](https://wemiibidun.github.io/dynamic-todo-list/)
+🔗 [View the Live To-Do App](https://wemiibidun.github.io/dynamic-todo-list-v2/)
 
 ---
 
