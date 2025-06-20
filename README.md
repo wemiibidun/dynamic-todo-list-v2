@@ -46,9 +46,8 @@ This project was built as an updated version to the dynamic to-do list that was 
   - Task Name
   - Description
   - Date
-  - Category (Personal, Work, or Study)
+  - Task categories are organized by type *(Personal, Work, Study)*
   - Task-specific fields: Location / Project Name / Subject
-  - Task objects are organized by type *(Personal, Work, Study)*
   - Mark as Urgent
   - Task Order
 
