@@ -3,6 +3,8 @@ My dynamic to-do list app helps users manage tasks efficiently with custom field
 
 ---
 ## Table of contents
+- [Dynamic To-Do List App v2](#dynamic-to-do-list-app-v2)
+  - [Table of contents](#table-of-contents)
   - [Introduction](#introduction)
   - [Screenshot](#screenshot)
   - [Technologies](#technologies)
@@ -30,10 +32,12 @@ This project was built as an updated version to the dynamic to-do list that was 
 ![CSS](https://img.shields.io/badge/CSS-1572B6?&style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-20232A?style=for-the-badge&logo=bootstrap&logoColor=61DAFB)
 ![Javascript](https://img.shields.io/badge/Javascript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-- **HTML** – Layout and structure of the app  
-- **CSS** – Styling and layout responsiveness  
-- **Bootstrap 5** – Prebuilt classes for faster styling  
-- **JavaScript** – Logic for adding, editing, deleting, and displaying tasks
+- **HTML** – Semantic structure and form controls
+- **CSS** – Styling and layout 
+- **Bootstrap 5** – Responsiveness 
+- **JavaScript** – DOM manipulation, and task management
+- **LocalStorage** – Saves tasks in browser to persist data on reload
+- **PrototypalInheritance** – Custom task types using constructor functions
 
 ---
 
