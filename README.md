@@ -6,8 +6,8 @@ Updated version of dynamic to-do list that was initially created [here](https://
 
 ## 📚 Table of Contents
 
-- [📝 Dynamic To-Do List App v2](#-dynamic-to-do-list-app-v2)
-  - [📚 Table of Contents](#-table-of-contents)
+- [Dynamic To-Do List App v2](#-dynamic-to-do-list-app-v2)
+  - [Table of Contents](#-table-of-contents)
   - [Introduction](#introduction)
   - [Screenshot](#screenshot)
   - [Technologies](#technologies)
