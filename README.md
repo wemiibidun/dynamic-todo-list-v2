@@ -1,6 +1,5 @@
 # 📝 Dynamic To-Do List App v2
-
-Updated version of the dynamic to-do list that was initially created [here](https://github.com/wemiibidun/dynamic-todo-list) as a beginner-friendly project using vanilla JavaScript. This new version takes a step further with more structure and interactivity. It introduces category-based task types *(Personal, Work, and Study)* using prototypal inheritance, allows users to drag and drop tasks, reorder them, and ensures information remains in the localStorage, so that tasks don't disappear even after a page refresh.
+My dynamic to-do list app helps users manage tasks efficiently with custom fields, drag-and-drop reordering, and persistent local storage.
 
 ---
 ## Table of contents
@@ -18,7 +17,7 @@ Updated version of the dynamic to-do list that was initially created [here](http
 
 ## Introduction
 
-This project was built to practice working with form inputs, DOM manipulation, and conditional rendering using **vanilla JavaScript**. The app helps users manage tasks with various custom fields in a user-friendly interface.
+This project was built as an updated version to the dynamic to-do list that was initially created [here](https://github.com/wemiibidun/dynamic-todo-list) as a beginner-friendly project using vanilla JavaScript. This new version takes a step further with more structure and interactivity. It introduces category-based task types *(Personal, Work, and Study)* using prototypal inheritance, allows users to drag and drop tasks, reorder them, and ensures information remains in the localStorage, so that tasks don't disappear even after a page refresh.
 
 ---
 
