@@ -4,6 +4,8 @@ Updated version of the dynamic to-do list that was initially created [here](http
 
 ---
 ## Table of contents
+- [📝 Dynamic To-Do List App v2](#-dynamic-to-do-list-app-v2)
+  - [Table of contents](#table-of-contents)
   - [Introduction](#introduction)
   - [Screenshot](#screenshot)
   - [Technologies](#technologies)
@@ -63,6 +65,7 @@ This app lets users:
 ## Link to Live Demo
 
 🔗 [View the Live To-Do App](https://wemiibidun.github.io/dynamic-todo-list-v2/)
+<a href="https://wemiibidun.github.io/dynamic-todo-list-v2/" target="_blank">🔗 View the Live To-Do App</a>
 
 ---
 
