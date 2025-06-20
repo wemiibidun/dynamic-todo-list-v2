@@ -17,7 +17,7 @@ My dynamic to-do list app helps users manage tasks efficiently with custom field
 
 ## Introduction
 
-This project was built as an updated version to the dynamic to-do list that was initially created [here](https://github.com/wemiibidun/dynamic-todo-list) as a beginner-friendly project using vanilla JavaScript. This new version takes a step further with more structure and interactivity. It introduces category-based task types *(Personal, Work, and Study)* using prototypal inheritance, allows users to drag and drop tasks, reorder them, and ensures information remains in the localStorage, so that tasks don't disappear even after a page refresh.
+This project was built as an updated version to the dynamic to-do list that was initially created [here](https://github.com/wemiibidun/dynamic-todo-list) as a beginner-friendly project using vanilla JavaScript. This new version takes a step further with more structure and interactivity. It introduces category-based task types *(Personal, Work, and Study)* using prototypal inheritance, allows users to drag and drop tasks, reorder them, and ensures information remains in the Local Storage, so that tasks don't disappear even after a page refresh.
 
 ---
 
@@ -48,6 +48,7 @@ This project was built as an updated version to the dynamic to-do list that was 
   - Date
   - Category (Personal, Work, or Study)
   - Task-specific fields: Location / Project Name / Subject
+  - Task objects are organized by type *(Personal, Work, Study)*
   - Mark as Urgent
   - Task Order
 
@@ -57,14 +58,8 @@ This project was built as an updated version to the dynamic to-do list that was 
     - Delete tasks individually
     - Clear all tasks in one click
     - Show/hide the entire task list
-    - Automatically persist tasks using localStorage
-
-- Additional Features
-  - Drag and Drop to reorder tasks visually
-  - Prototypal Inheritance: Task objects are organized by type *(Personal, Work, Study)*
-  - Persistent Storage: Tasks remain saved after page reload
-  - Category-Specific Inputs: Extra fields appear based on task type
-  - Order Field: Customize where a task appears in the list
+    - Tasks remain saved after page reload using local storage
+    - Drag and Drop to reorder tasks visually
 
 ---
 
