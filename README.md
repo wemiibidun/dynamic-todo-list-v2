@@ -61,7 +61,7 @@ This project was built as an updated version to the dynamic to-do list that was 
 
 - Additional Features
   - Drag and Drop to reorder tasks visually
-  - Prototypal Inheritance: Task objects are organized by type (Personal, Work, Study)
+  - Prototypal Inheritance: Task objects are organized by type *(Personal, Work, Study)*
   - Persistent Storage: Tasks remain saved after page reload
   - Category-Specific Inputs: Extra fields appear based on task type
   - Order Field: Customize where a task appears in the list
@@ -87,7 +87,7 @@ Project is: ✅ **Complete**
 git clone https://github.com/wemiibidun/dynamic-todo-list-v2.git
 
 # Navigate into the project folder
-cd dynamic-todo-list
+cd dynamic-todo-list-v2
 
 # Open index.html in your browser
 ```
