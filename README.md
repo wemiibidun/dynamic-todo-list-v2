@@ -3,7 +3,6 @@ My dynamic to-do list app helps users manage tasks efficiently with custom field
 
 ---
 ## Table of contents
-  - [Table of contents](#table-of-contents)
   - [Introduction](#introduction)
   - [Screenshot](#screenshot)
   - [Technologies](#technologies)
