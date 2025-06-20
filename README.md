@@ -36,8 +36,8 @@ This project was built as an updated version to the dynamic to-do list that was 
 - **CSS** – Styling and layout 
 - **Bootstrap 5** – Responsiveness 
 - **JavaScript** – DOM manipulation, and task management
-- **LocalStorage** – Saves tasks in browser to persist data on reload
-- **PrototypalInheritance** – Custom task types using constructor functions
+- **Local Storage** – Saves tasks in the browser to persist data on reload
+- **Prototypal Inheritance** – Custom task types using constructor functions
 
 ---
 
