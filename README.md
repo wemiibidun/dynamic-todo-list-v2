@@ -6,14 +6,16 @@ A beginner-friendly interactive to-do list that lets users create, edit, delete,
 
 ## 📚 Table of Contents
 
-- [Introduction](#introduction)  
-- [Screenshot](#screenshot)  
-- [Technologies](#technologies)  
-- [Features](#features)  
-- [Link to Live Demo](#link-to-live-demo)  
-- [Status](#status)  
-- [How to Run the Project Locally](#how-to-run-the-project-locally)  
-- [Contact](#contact)
+- [📝 Dynamic To-Do List App](#-dynamic-to-do-list-app)
+  - [📚 Table of Contents](#-table-of-contents)
+  - [Introduction](#introduction)
+  - [Screenshot](#screenshot)
+  - [Technologies](#technologies)
+  - [Features](#features)
+  - [Link to Live Demo](#link-to-live-demo)
+  - [Status](#status)
+  - [How to Run the Project Locally](#how-to-run-the-project-locally)
+  - [Contact](#contact)
 
 ---
 
@@ -24,7 +26,7 @@ This project was built to practice working with form inputs, DOM manipulation, a
 ---
 
 ## Screenshot
-![To-Do App Screenshot](https://github.com/wemiibidun/dynamic-todo-list/blob/main/dynamic-todo-list.png)
+![To-Do App Screenshot](https://github.com/wemiibidun/dynamic-todo-list-v2/blob/main/dynamic-todo-list.png)
 
 ---
 
