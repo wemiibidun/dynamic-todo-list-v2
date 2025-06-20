@@ -42,24 +42,29 @@ This project was built as an updated version to the dynamic to-do list that was 
 ---
 
 ## Features
+- Add a Task with the following fields:
+  - Task Name
+  - Description
+  - Date
+  - Category (Personal, Work, or Study)
+  - Task-specific fields: Location / Project Name / Subject
+  - Mark as Urgent
+  - Task Order
 
-This app lets users:
+- Task Management
+    - Dynamically render all tasks immediately after adding
+    - Edit tasks with pre-filled form input
+    - Delete tasks individually
+    - Clear all tasks in one click
+    - Show/hide the entire task list
+    - Automatically persist tasks using localStorage
 
-✅ Add a task with the following details:
-- Task Name  
-- Description  
-- Date  
-- Category  
-- Mark as Urgent  
-- Task Order (position)  
-
-✅ Manage tasks:
-- View all tasks immediately after submission  
-- Edit task details with pre-filled form  
-- Delete specific tasks  
-- Reorder tasks based on task order  
-- Clear all tasks with a single click  
-- Show/Hide task list section
+- Additional Features
+  - Drag and Drop to reorder tasks visually
+  - Prototypal Inheritance: Task objects are organized by type (Personal, Work, Study)
+  - Persistent Storage: Tasks remain saved after page reload
+  - Category-Specific Inputs: Extra fields appear based on task type
+  - Order Field: Customize where a task appears in the list
 
 ---
 
